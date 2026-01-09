@@ -70,7 +70,7 @@ west update
 
 ### Building and running
 
-To build the application, run the following command;
+To build the application, run the following command:
 
 ```shell
 cd example-application
